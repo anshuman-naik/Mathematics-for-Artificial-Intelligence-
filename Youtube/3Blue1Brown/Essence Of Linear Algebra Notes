@@ -14,3 +14,14 @@ A concept of Vector addition
 Where the tails of n number of vectors are added upon eachother to findd the resultant vector.
 We shall perform this into a python programme named simple  2 dimensional vector additon.
 
+
+
+#LESSON 2
+
+Vector Algebra Inituition
+
+We can have vectors of a 2d plane and a 3d plane which could be described as ai+bj for 2d and ai+bj+ck for 3d where i,j & k are the units
+and a,b & c are coefficients of i,j & k
+
+with this format we can very well explore and access all the points in the 3d and 2d spaces.
+
