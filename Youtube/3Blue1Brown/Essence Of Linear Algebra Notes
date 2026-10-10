@@ -1,0 +1,16 @@
+October 10th 2026 Log
+
+#LESSON 1
+Vector Algebra Inituition
+
+In Vector Algebra the user can take three approaches on how to conceptialize Vector Algebra
+i) Physicist Perspective ii)Mathematician Perspective iii)Computer Science Perspective
+
+i) A Physicist may view a vector as a arrow pointing in space
+ii) A computer science student may view a vector as a ordered list of data
+iii) A Mathematician perspective may come accross if that particular vector adds to a vector and scales with a number then its a vector.
+
+A concept of Vector addition
+Where the tails of n number of vectors are added upon eachother to findd the resultant vector.
+We shall perform this into a python programme named simple  2 dimensional vector additon.
+
