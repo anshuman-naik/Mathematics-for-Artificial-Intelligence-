@@ -38,3 +38,17 @@ it could be i)Geometric Vectors
 This book has also mentioned 3blue1brown
 
 so we finish the 3 hour content of 3blue1brown playlist named "essence of linear algebra"
+
+
+11th october 2026
+
+
+I have done a skim over the topics of already known topics of 
+i) systems of linear equations :- finding solutions for systems of linear equations(gaussian elemination or use x = ba^(-1) method)
+ii) matrices, inverse, transpose , gaussian elimination, augmented matrix, multiplication by a scaler(a very obvious topic)
+iii) vector spaces a very interesting concept which does a deep dive on how an n dimensional vector space can be used whic puts into perspective
+    of how machine learning can be performed with n factors or dimensions being taken into account.
+iv)groups is an interesting concept as well, where we do a deep dive on generalisation of different concepts where we take group
+   has a certain elements and operations which can be applied to the elements inside it
+
+we're at page number 45th 
